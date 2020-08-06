@@ -1,0 +1,7 @@
+//Corpo(Request body):DAdos para criação ou atualização de um registro
+//Route Params:Identificar qual recurso eu quero atualziar ou deletar '/users/:id'=>id seria um route param
+//Query Params:Listagem, para fazer paginação e tal
+
+
+
+//migrations - controlam a versão do banco de dados
